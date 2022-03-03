@@ -17,11 +17,6 @@
 
 ### 예시 (CodePen)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/onehousesilver/embed/MWOzjWg?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/onehousesilver/pen/MWOzjWg">
-  Untitled</a> by onehousesilver (<a href="https://codepen.io/onehousesilver">@onehousesilver</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
 
 - HTML로 먼저 구성
 - CSS로 스타일 입히기
