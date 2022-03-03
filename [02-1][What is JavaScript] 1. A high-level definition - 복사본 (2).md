@@ -1,0 +1,28 @@
+# What is JavaScript?
+
+> 출처: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+
+## A high-level definition
+
+자바스크립트(JavaScript)는 웹 페이지에 복잡한 기능을 구현할 수 있게 하는 스크립팅 또는 프로그래밍 언어입니다. 웹페이지는 우리가 정적인 정보가 명시되어있는 화면을 보고있는 것 보다 더 많은 일을 합니다. 적시에 콘텐츠 업데이트, 대화형 맵, 애니메이션 2D/3D 그래픽, 스크롤링 비디오 주크박스 등을 표시합니다. JavaScript가 관련되어 있을 수 있습니다. 표준 웹 기술의 레이어 케이크의 세 번째 레이어이며, 그 중 두 가지(HTML 및 CSS)는 학습 영역의 다른 부분에서 훨씬 더 자세히 다루었습니다.
+![img](https://media.vlpt.us/images/onehousesilver/post/477f3c95-b1e4-4153-b4f2-7936e1a6485c/image.png)
+
+- HTML 은 웹 콘텐츠를 구성하고 의미를 부여하는 데 사용하는 마크업 언어입니다. 예를 들어 단락, 머리글 및 데이터 테이블을 정의하거나 페이지에 이미지와 비디오를 삽입하는 것입니다.
+- CSS 는 HTML 콘텐츠에 스타일을 적용하는 데 사용하는 스타일 규칙 언어입니다. 예를 들어 배경색과 글꼴을 설정하고 콘텐츠를 여러 열에 배치합니다.
+- JavaScript 는 동적으로 업데이트되는 콘텐츠를 만들고, 멀티미디어를 제어하고, 이미지에 애니메이션을 적용하는 등 거의 모든 것을 가능하게 하는 스크립팅 언어입니다. (모든 것은 아니지만 몇 줄의 JavaScript 코드로 달성할 수 있는 것은 어메이징!)
+
+3개의 레이어가 서로의 위에 멋지게 구축됩니다. 간단한 텍스트 레이블을 예로 들어 보겠습니다. HTML을 사용하여 마크업하여 구조와 목적을 부여할 수 있습니다.
+
+
+
+### 예시 (CodePen)
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/onehousesilver/embed/MWOzjWg?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/onehousesilver/pen/MWOzjWg">
+  Untitled</a> by onehousesilver (<a href="https://codepen.io/onehousesilver">@onehousesilver</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
+- HTML로 먼저 구성
+- CSS로 스타일 입히기
+- JS로 동적 동작 구현하기
