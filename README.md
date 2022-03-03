@@ -14,7 +14,7 @@ MDN 웹 문서는 개발자 커뮤니티가 관리하는 위키로, HTML, 자바
 
 #### 1. JavaScript first steps
 
-- JavaScript first steps overview
+- JavaScript first steps overview (03/01)
 - What is JavaScript?
 - A first splash into JavaScript
 - What went wrong? Troubleshooting JavaScript
